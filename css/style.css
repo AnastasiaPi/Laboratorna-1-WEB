@@ -53,7 +53,7 @@ img { height: 400px;
 	font-size: 16pt;}
 .but{width: 400px;
 	height: 500px;
-	background-image: url(cat2.png);
+	background-image: url(../source/cat2.png);
 	display: block;
 	margin: 0px 30%;}
 .but a{
